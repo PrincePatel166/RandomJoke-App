@@ -18,3 +18,6 @@ The project is designed with simplicity in mind, featuring a dark background and
 Random Joke Fetching: Displays a new joke every second by fetching from the Official Joke API.
 Clean, Simple UI: Minimalist design with a focus on the content.
 User Interaction: Start and stop the joke feed with intuitive buttons.
+
+![image](https://github.com/user-attachments/assets/a3586e2e-50a7-40e5-a78c-a868b4d2616e)
+
